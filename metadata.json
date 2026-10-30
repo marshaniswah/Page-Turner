@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Nusa — Ruang Temu & Eksplorasi Buku",
+  "description": "Platform kurasi sastra dan literasi terlengkap: jelajahi mahakarya buku, lacak bacaan pribadi, nikmati kutipan inspiratif, dan baca cuplikan dengan suasana imersif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
